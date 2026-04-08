@@ -3,7 +3,7 @@ public class shiftLeft {
         int[] nums = {6, 2, 5, 3};
         int[] arr = shiftLeft(nums);
 
-        // Print each element of the shifted array
+
         for (int n : arr) {
             System.out.println(n);
         }
