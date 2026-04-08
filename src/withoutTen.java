@@ -1,6 +1,6 @@
 public class withoutTen {
     public static void main(String[] args) {
-        int[] nums={1,3,10,5};// 1,3,5,0
+        int[] nums={1,10,10,5};// 1,3,5,0
         int[] arr =withoutTen(nums);
         for (int n : arr) {
             System.out.print(n + " ");
